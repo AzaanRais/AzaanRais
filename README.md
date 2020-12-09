@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm [Azaan!](http://github.com/azaanrais)
 
 - 💻 I know: HTML, CSS & a bit of Python (learning)
-- 🔭 I’m currently working on an Audiobook (you can check my repository)
+- 🔭 I’m currently working on an Audiobook (you can check my [repository](https://github.com/azaanrais/Audibook))
 - 🌱 I’m currently learning Python
 
 <details>
