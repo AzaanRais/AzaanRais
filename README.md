@@ -18,5 +18,4 @@
 
 <h4>⛳ Github Stats</h4>
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=AzaanRais&show_icons=True&theme=dark" /> 
-<br><br>
 <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzaanRais&exclude_repo=KNN-Image  Classification&show_icons=truelayout=compact&langs_count=8&theme=dark"/>
