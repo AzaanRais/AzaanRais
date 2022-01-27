@@ -1,7 +1,6 @@
 <h1 align="center"> 
     👋 Hello, I'm <a href="https://github.com/AzaanRais">Azaan</a>
 </h1>
-<hr>
 
 <p align="center">
     <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
@@ -25,7 +24,6 @@
 <h2 align="center"> 
     Projects 
 </h2>
-<hr>
 <p align="center">
     I don't really have a lot of projects which I can publish on GitHub, I plan on publishing more of my projects in the near future. For the time being, I do have a <a href="https://github.com/AzaanRais.dotfile">Dotfiles</a> repo ;)
 </p>
@@ -35,7 +33,6 @@
 <h2 align="center">
     Activity
 </h2>
-<hr>
 <img src="https://github-readme-stats.vercel.app/api?username=AzaanRais&theme=dark">
 
 
