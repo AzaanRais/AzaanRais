@@ -4,19 +4,12 @@
 
 <p align="center">
     <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 <p align="center">
-    Hey there! I'm Azaan. I am a 13 year old who is intrigued by new and upcoming technologies. I am currently learning JavaScript and I know basic HTML, CSS and Bash scripting. I am mainly interested in Technology 💻, Space 🚀 and Science 🌠.
-</p>
-
-<p align="center">
-    <a href="discord.com/users/858283237818236991">
-        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-    </a>
+    Hey there! I'm Azaan. I am a 14 year old who is intrigued by new and upcoming technologies. I am currently learning null and I know basic Python, HTML, CSS and Bash scripting. I am mainly interested in Technology 💻, Space 🚀 and Science 🌠.
 </p>
 
 <br>
@@ -25,7 +18,7 @@
     Projects 
 </h2>
 <p align="center">
-    I don't really have a lot of projects which I can publish on GitHub, I plan on publishing more of my projects in the near future. For the time being, I do have a <a href="https://github.com/AzaanRais.dotfile">Dotfiles</a> repo ;)
+    I don't really have a lot of projects which I can publish on GitHub, I plan on publishing more of my projects in the near future. 
 </p>
 
 <br>
